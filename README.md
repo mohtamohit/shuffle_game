@@ -1,28 +1,22 @@
-CS Project | Shuffle Game
+<h1>CS Project | Shuffle Game
+</h1>
 
-
-Project Motivation: The motivation for doing this project was primarily an interest in undertaking a challenging project. These were the
+Project Motivation: This is my first project in the core computer science. The motivation for doing this project was primarily an interest in undertaking a challenging project. These were the
 things that were not taught much during the lecture and this made things more challenging for us. The only thought
 that kept us going was that the game after completion would look awesome. This brain Game would really brainstorm
-your mind. The project uses the library Graphics.h , exploring which gave us insights into some really basic functions of Graphics, knowledge of which would help us to explore modern graphic libraries with their backgroud exhaustively. I also extend my gratitude towards Dr. Tanima Dutta Madam and Nikhil Tripathi Sir for helping me out in this project.
+your mind. The project uses the library Graphics.h , exploring which gave us insights into some really basic functions of Graphics, knowledge of which would help us to explore modern graphic libraries with their backgroud exhaustively. I also extend my gratitude towards <b>Dr. Tanima Dutta Mam</b> and <b>Nikhil Tripathi Sir</b> for helping me out in this project.
 
-Happy Gaming!
-
-
-About the Game
+<h2>About the Game</h2>
 In this Game, you are assigned a matrix of 16 squares of which 15 are assigned with 15 different numbers and one is
 left out blank(empty space for moving the tiles) . All you have to do is to bring all the numbers at their respective
 indexes .
 
 
-How to operate the Game ?
+<h2>How to operate the Game ?</h2>
 The main project file is saved as mainproject.cpp in the same folder of this readme file. The instructions and rules for
 operating the game are displayed inside that only.
 
-
-Special Features Of Our Game: 
-
-Some Basic features Of this Game :
+<h3>Some Basic features Of this Game :</h3>
 
 1. You can move the tiles by using W, A, S and D, where W is analogous with Upper arrow key, A with left arrow
 key, S with down arrow key and D with right arrow key.
@@ -43,7 +37,7 @@ ideal arrangement under that limit, then the player losses the Game.12. Similarl
 brainstorm your minds with!
 
 
-Some Advanced Features Of this Game :
+<h3>Some Advanced Features Of this Game :</h3>
 1. If a number is kept where it should be i.e. at the right position with respect to the ideal arrangement, then the color
 of that tile turns GREEN.
 2. If the number is not at its ideal position, then the tile at which that number is lying turns YELLOW automatically.
@@ -61,3 +55,4 @@ at the first screen is an example!
 invalid input appears, and goes by itself after a few seconds) .
 
 Hope you like it! 
+Happy Gaming. :) 
